@@ -21,3 +21,6 @@ console.log(energy);
 // 4
 const milk = 30;
 const potato = 20;
+const apple = 25;
+const bread = 10;
+console.log((milk + potato + apple + bread) * 0.9);
